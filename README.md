@@ -5,6 +5,7 @@ Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kamp
 Murat Yücedağ'a değerli bilgileri ve rehberliği için sonsuz teşekkürlerimi sunarım. 🙏✨
 
 Her bir ders, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda her derse dair teknik detayları bulabilirsiniz:
+
 ---
 
 ### 🗂️ Ders 11: C# ile N Katmanlı Mimari Entity Layer  
